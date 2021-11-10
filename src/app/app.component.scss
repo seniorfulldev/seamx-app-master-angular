@@ -1,0 +1,65 @@
+.noti-alarm {
+    background-color: #ca8dda;
+    z-index: 1;
+    &:focus {
+        display: none;
+    }
+    p {
+        font-weight: bold;
+    }
+}
+ion-list {
+    width: 100%;
+    ion-item{
+        font-family: Lato;
+        color: #0F187D;
+
+        img {
+            border-radius: 10px;
+        }
+    }
+}
+#notification-modal {
+    position: fixed;
+    bottom: 30%;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    // background-color: #70b970;
+    font-size: 1.5rem;
+    // color: #e5f1fd;
+    border-radius: 10px;
+    padding: 1rem;
+    z-index: 2;
+    ion-card {
+        width: 100% !important;
+        padding: 1em;
+        margin: 1em;
+        .noti-img {
+            width: 30%;
+            display: inline-block;
+            vertical-align: top;
+            margin-top: 1em;
+            border-radius: 10px;
+        }
+        .noti-content {
+            width: 60%;
+            display: inline-block;
+        h2 {
+            font-weight: bold;
+            padding: 1em;
+            font-family: Lato;
+            color: #0F187D;
+        }
+        p {
+            text-align: initial;
+            padding: 1em;
+        }
+        ion-button {
+            width: 30%;
+            margin: 10px auto;
+        }
+        }
+    }
+}

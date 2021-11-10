@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "330138728257",
+    "firebase_url": "https://seamx-3a6d2.firebaseio.com",
+    "project_id": "seamx-3a6d2",
+    "storage_bucket": "seamx-3a6d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330138728257:android:0c92597f2deba1f12f93c0",
+        "android_client_info": {
+          "package_name": "com.seamx.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330138728257-acae56mpik626g3moovjkpk5dn6i38lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seamx.app",
+            "certificate_hash": "9de55500843d657fad1962c05fddc458d656f843"
+          }
+        },
+        {
+          "client_id": "330138728257-inlu6oophaavv2ucst8b511qj71g5mvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuh2kMOrTpKF_yGc0y84E2eJq-capeut0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330138728257-inlu6oophaavv2ucst8b511qj71g5mvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
